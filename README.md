@@ -2,8 +2,6 @@
 
 
 I am a full-stack software developer with more than ten years of experience working as a Software Engineer. I am also a doctorate's student in Computer Science. 
-- 😄 Pronouns: He/Him/His
-
 
 **Languages and Tools:** 
 
