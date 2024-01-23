@@ -1,11 +1,23 @@
 ### Hi there 👋, I am [Alan](https://alansantospi.github.io/)! 😁
 
 
-Hello, my name is Alan Santos and I am a doctorate's student in Computer Science. I am a full-stack software developer with more than ten years of experience working as a Software Engineer. My technology stack involves Java/J2EE, Spring, Maven, Hibernate, MySQL, javascript. 
+Hello, my name is Alan Santos and I am a doctorate's student in Computer Science. I am a full-stack software developer with more than ten years of experience working as a Software Engineer. My technology stack involves APIs; PL/SQL; Hibernate/JPA; Maven; Front-end and back-end integration. 
+
+I am proficient in Python, R and Javascript too. 
 
 - 🔭 I’m currently researching at the intersection of machine learning and databases with the [IDEA Lab](http://web.engr.oregonstate.edu/~termehca/)
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 😄 Pronouns: He/Him/His
+
+
+Skills ____________________________________________________________________________________________
+• OOP | Design Patterns | TDD | BDD | QA | SOLID | RESTful | API | ORM | MySQL | MariaDB | MongoDB | MSSQL | Postgres | PL/SQL |
+NoSQL | Scrum | Kanban | Agile | Lambda | RabbitMQ | Frontend | JavaScript | HTML | React | Vue | jQuery | Angular | Bootstrap | Python
+• Java | Hibernate | JPA | Spring Boot | Spring MVC | Spring Security | Spring Rest | Spring Data | Azure | Cloud Computing | AWS | GCP |
+CI/CD | JUnit | Mockito | Cucumber | Jenkins | Unit Testing | Selenium | Sonar | Maven | Gradle | Git | Microservices | Distributed Systems |
+Backend | Full-Stack | Docker | Portuguese (Native), English (Advanced), Spanish (Intermediate)
+• Python | R | PyTorch | Machine Learning | SciKit Learn | BeautifulSoup | Scrapy | PyTest | Requests | Dbt | Great Expectations | Streamlit
+
 
 **Languages and Tools:** 
 
