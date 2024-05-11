@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is [Alan Santos](https://github.com/alansantospi/)! 😁
 
 
-I am a full-stack software developer with more than ten years of experience working as a Software Engineer. I am also a doctorate's student in Computer Science. 
+I am a full-stack software developer with 10+ years of experience working as a Software Engineer. I am also a doctorate's student in Computer Science. 
 
 **Languages and Tools:** 
 
